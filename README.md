@@ -17,11 +17,17 @@
 <details closed>
 <summary>🐱‍💻 Others skills</summary>
 <div>
+<br>
+
 [![My Skills](https://skillicons.dev/icons?i=angular,react,nextjs,ts,styledcomponents,html,css,bootstrap)](https://skillicons.dev)
-  <a href="https://github.com/jdgabriel">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jdgabriel&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  </a>
+
+<br>
+<a href="https://github.com/jdgabriel">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jdgabriel&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+</a>
+  
 </div>
+
 </details>
 
 
