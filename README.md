@@ -11,7 +11,7 @@
     <br>
 </div>
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,apollo,ts,graphql,prisma,docker,mysql,postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,apollo,ts,graphql,prisma,mysql,postgres,docker)](https://skillicons.dev)
 <br>
 
 <details closed>
