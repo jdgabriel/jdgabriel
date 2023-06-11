@@ -11,7 +11,7 @@
     <br>
 </div>
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,apollo,ts,graphql,prisma,mysql,postgres,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,ts,nest,express,apollo,graphql,prisma,mysql,postgres,docker)](https://skillicons.dev)
 <br>
 
 <details closed>
@@ -19,7 +19,7 @@
 <div>
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=angular,react,nextjs,ts,styledcomponents,html,css,bootstrap)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=angular,react,nextjs,styledcomponents,html,css,bootstrap)](https://skillicons.dev)
 
 <br>
 <a href="https://github.com/jdgabriel">
