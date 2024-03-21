@@ -1,4 +1,6 @@
-### Hello I'm Gabriel Duarte
+<img align="right" src="https://github.com/jdgabriel/jdgabriel/blob/main/code.png" width="300"/>
+
+### Hello, i'm Gabriel Duarte
 
 🔭 Interested in working as a backend developer.<br />
 🌱 I'm currently learning about (nodejs, graphql, prisma, apollo-server, apollo-federation, typescript)<br />
